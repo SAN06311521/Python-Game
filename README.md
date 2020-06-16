@@ -1,2 +1,2 @@
 # Python-Game
-This is my first Python Game !!
+Basic python games for learning !
